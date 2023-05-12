@@ -14,4 +14,8 @@ My project name is "Secondproject" and app name is "sales"
 ## Other Files(optional)
 I attached other files too along with the two main task where i run query on mysql and python and visualize the data on python.  
 
+## Generate PDF Report 
+[Task_2_Query_implementation_Visualization_using_python.pdf](https://github.com/niloycste/UpdateTechCodingAssesment/files/11461123/Task_2_Query_implementation_Visualization_using_python.pdf)
+
+
 
