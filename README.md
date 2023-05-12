@@ -1,5 +1,5 @@
 # UpdateTechCodingAssesment
-i have done two assesment based on DRF for the update tech coding assesment 
+i did two assessment based on DRF for the update tech coding assesment 
 
 ## Task1- 
 For Task1 i created user model using "AbstractBaseUser" class and a custom user manager using "BaseUserManager"  and thereafter implemented login and registration API using DRF.The API's name are "RegisterApi"(register) and "LoginAPI"(login).
